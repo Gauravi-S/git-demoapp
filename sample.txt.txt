@@ -1,2 +1,3 @@
 Hello World,
-This is a seesion on Github,
+This is a session on Github.
+Adding a new line.
